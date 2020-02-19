@@ -2,28 +2,28 @@
 
 ## 목차 (Table of contents)
 
-[소개 (Introduction)](#소개-(Introduction))
+[소개 (Introduction)](##소개-(Introduction))
 
-[기본 사용법 (Basic usage)](#기본-사용법-(Basic-usage))
+[기본 사용법 (Basic usage)](##기본-사용법-(Basic-usage))
 
-[as 연산자 (The as operator)](#as-연산자-(The-as-operator))
+[as 연산자 (The as operator)](##as-연산자-(The-as-operator))
 
-[타입 검사 (Type Checking)](#타입-검사-(Type-Checking))
+[타입 검사 (Type Checking)](##타입-검사-(Type-Checking))
 
-* [고유 요소 (Intrinsic elements)](#고유-요소-(Intrinsic-elements))
-* [값-기반 요소 (Value-based elements)](#값-기반-요소-((Value-based-elements)))
-* [함수형 컴포넌트 (Function Component)](#함수형-컴포넌트-(Function-Component))
-* [클래스형 컴포넌트 (Class Component)](#클래스형-컴포넌트-(Class-Component))
-* [속성 타입 검사 (Attribute type checking)](#속성-타입-검사-(Attribute-type-checking))
-* [자식 타입 검사 (Children Type Checking)](#자식-타입-검사-(Children-Type-Checking))
+* [고유 요소 (Intrinsic elements)](###고유-요소-(Intrinsic-elements))
+* [값-기반 요소 (Value-based elements)](###값-기반-요소-((Value-based-elements)))
+* [함수형 컴포넌트 (Function Component)](####함수형-컴포넌트-(Function-Component))
+* [클래스형 컴포넌트 (Class Component)](####클래스형-컴포넌트-(Class-Component))
+* [속성 타입 검사 (Attribute type checking)](###속성-타입-검사-(Attribute-type-checking))
+* [자식 타입 검사 (Children Type Checking)](###자식-타입-검사-(Children-Type-Checking))
 
-[JSX 결과 타입 (The JSX result type)](#JSX-결과-타입-(The-JSX-result-type))
+[JSX 결과 타입 (The JSX result type)](##JSX-결과-타입-(The-JSX-result-type))
 
-[표현식 포함하기 (Embedding Expressions)](#표현식-포함하기-(Embedding-Expressions))
+[표현식 포함하기 (Embedding Expressions)](##표현식-포함하기-(Embedding-Expressions))
 
-[리액트와 통합하기 (React integration)](#리액트와-통합하기-(React-integration))
+[리액트와 통합하기 (React integration)](##리액트와-통합하기-(React-integration))
 
-[팩토리 함수 (Factory Functions)](#팩토리-함수-(Factory-Functions))
+[팩토리 함수 (Factory Functions)](##팩토리-함수-(Factory-Functions))
 
 ## 소개 (Introduction)
 
